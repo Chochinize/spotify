@@ -5,7 +5,7 @@ import {
     LibraryIcon,
     RssIcon,
 } from '@heroicons/react/outline'
-import { HeartIcon } from '@heroicons/react/Solid';
+import { HeartIcon } from '@heroicons/react/solid';
 import {useSession } from 'next-auth/react'
 import {useRecoilState} from 'recoil'
 import {useState,useEffect}  from  'react';
